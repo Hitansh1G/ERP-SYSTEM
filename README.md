@@ -12,7 +12,6 @@ pip install mysqlclient
 </pre>
 <hr>
 <ul>
-<ol>First Create MySql Database Tutorial : <a href="https://youtu.be/cEazlDKu86E">https://youtu.be/cEazlDKu86E</a> </ol>
 <ol>Change Database Setting in settings.py </ol>
 <ol>
 Run Migration Command 
